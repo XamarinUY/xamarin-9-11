@@ -3,7 +3,7 @@ Meetup Xamarin 9/11 del 09/11/2018
 
 ## Firebase Push Notifications using a .NET backend - Nicolás Bonora
 
-Slides: 
+Slides: https://github.com/XamarinUY/xamarin-9-11/blob/master/FCM%20%26%20Xamarin.pdf
 
 ## De Swift a Xamarin en un proyecto open source - Juan Laube
 
