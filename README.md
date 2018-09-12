@@ -7,7 +7,7 @@ Slides:
 
 ## De Swift a Xamarin en un proyecto open source - Juan Laube
 
-Slides: 
+Slides: https://github.com/XamarinUY/xamarin-9-11/blob/master/XamarinUY%20talk.pdf
 
 ##
 
